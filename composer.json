@@ -1,33 +1,23 @@
 {
-	"name":        "websmurf/pagination",
-	"type":        "kohana-module",
-	"description": "The official kohana module for pagination",
-	"homepage":    "http://kohanaframework.org",
-	"license":     "BSD-3-Clause",
-	"keywords":    ["kohana", "framework", "task"],
-	"authors": [
-		{
-			"name":     "Kohana Team",
-			"email":    "team@kohanaframework.org",
-			"homepage": "http://kohanaframework.org/team",
-			"role":     "developer"
-		}
-	],
-	"support": {
-		"issues":   "http://dev.kohanaframework.org",
-		"forum":    "http://forum.kohanaframework.org",
-		"irc":      "irc://irc.freenode.net/kohana",
-		"source":   "http://github.com/kohana/core"
-	},
-	"require": {
-		"composer/installers": "~1.0",
-		"kohana/core":         ">=3.3",
-		"php":                 ">=5.3.3"
-	},
-	"extra": {
-		"branch-alias": {
-			"dev-3.3/develop": "3.3.x-dev",
-			"dev-3.4/develop": "3.4.x-dev"
-		}
-	}
+    "name": "shadowhand/pagination",
+    "type": "kohana-module",
+    "description": "Email helper for Kohana, uses Swiftmailer",
+    "keywords": ["kohana", "email", "helper", "module", "library", "swiftmailer"],
+    "homepage": "http://github.com/shadowhand/email",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Woody Gilk",
+            "email": "woody.gilk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.4",
+        "swiftmailer/swiftmailer": "4.3.*"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-3.3/develop": "3.3.x-dev"
+        }
+    }
 }
