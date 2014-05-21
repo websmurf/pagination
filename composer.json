@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.2.4",
-        "swiftmailer/swiftmailer": "4.3.*"
+        "kohana/core": "3.3.*"
     },
     "extra": {
         "branch-alias": {
