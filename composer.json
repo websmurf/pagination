@@ -1,5 +1,5 @@
 {
-	"name":        "kohana/pagination",
+	"name":        "websmurf/pagination",
 	"type":        "kohana-module",
 	"description": "The official kohana module for pagination",
 	"homepage":    "http://kohanaframework.org",
