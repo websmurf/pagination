@@ -1,9 +1,9 @@
 {
-    "name": "shadowhand/pagination",
+    "name": "websmurf/pagination",
     "type": "kohana-module",
-    "description": "Email helper for Kohana, uses Swiftmailer",
-    "keywords": ["kohana", "email", "helper", "module", "library", "swiftmailer"],
-    "homepage": "http://github.com/shadowhand/email",
+    "description": "Pagination helper for Kohana",
+    "keywords": ["kohana", "pagination", "helper", "module", "library"],
+    "homepage": "http://github.com/websmurf/pagination",
     "license": "MIT",
     "authors": [
         {
