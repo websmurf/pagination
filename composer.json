@@ -9,15 +9,19 @@
         {
             "name": "Woody Gilk",
             "email": "woody.gilk@gmail.com"
+        },
+        {
+            "name": "Adam van Dongen",
+            "email": "adam@bandhosting.nl"
         }
     ],
     "require": {
         "php": ">=5.2.4",
-        "kohana/core": "3.3.*"
+        "kohana/core": "3.4.*"
     },
     "extra": {
         "branch-alias": {
-            "dev-3.3/develop": "3.3.x-dev"
+            "dev-3.4/master": "3.4.x-dev"
         }
     }
 }
